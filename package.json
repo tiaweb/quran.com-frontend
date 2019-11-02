@@ -118,7 +118,7 @@
     "babel-register": "6.11.6",
     "babel-runtime": "6.11.6",
     "body-parser": "1.18.3",
-    "bootstrap-sass": "3.3.7",
+    "bootstrap-sass": "3.4.1",
     "cache-manager": "1.5.0",
     "camelcase-keys": "4.2.0",
     "caniuse-db": "1.0.30000613",
